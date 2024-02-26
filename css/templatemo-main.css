@@ -548,7 +548,8 @@ nav a:hover::before {
 	max-width: 100%;
 	min-width: 100%;
 	overflow: hidden;
-	float: right;
+	margin-top:5%;
+
 }
 
 .second-content .left-content {
