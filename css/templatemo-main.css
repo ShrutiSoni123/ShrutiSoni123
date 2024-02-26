@@ -1074,6 +1074,8 @@ nav a:hover::before {
 	.first-content .fb-btn {
 	display: inline-block;
 	margin-top: 5px;
+	padding: 1.5px;
+	font-size: 8px;
 	}
 	
 	.first-content .fb-btn a {
