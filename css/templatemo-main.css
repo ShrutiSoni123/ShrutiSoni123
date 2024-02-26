@@ -1071,6 +1071,41 @@ nav a:hover::before {
 	.footer .content {
 	display: none;
 	}
+	.first-content .fb-btn {
+	display: inline-block;
+	margin-top: 5px;
+	}
+	
+	.first-content .fb-btn a {
+	display: inline-block;
+	background-color: #fff;
+	border: 2px solid #fff;
+	padding: 1.5px;
+	font-size: 8px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #232323;
+	text-decoration: none;
+	transition: all 0.5s;
+	}
+	.first-content .main-btn a {
+	display: inline-block;
+	border: 2px solid #fff;
+	padding: 4px 7px;
+	font-size: 13px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #fff;
+	text-decoration: none;
+	transition: all 0.5s;
+	transition: all 0.5s;
+	}
+	.typewriter h1 {
+	color: aliceblue;
+	font-family: monospace;
+	font-size: 2.2rem;
+	display: flex;
+	}
 }
 
 .contact-info {
