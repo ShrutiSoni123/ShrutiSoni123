@@ -5,11 +5,11 @@
 
 <h2>About me -</h2>
 
-- 🔭 I’m currently **pursuing master's**
+- 🔭 I’m working as a **Packaged App Development Associate at Accenture**
 
-- 🌱 I’m exploring - **PHP and JavaScript**
+- 🌱 I’m exploring - **Azure Data Service s**
 
-- 💬 Ask me about **HTML,CSS, JavaScript, Bootstrap, SQL**
+- 💬 Ask me about **HTML,CSS, JavaScript, Bootstrap, SQL, MySQL, Azure Data Service**
 
 - 📫 Reach me at **sonishruti343@gmail.com**
 
