@@ -1,13 +1,13 @@
 <img src="https://www.webfx.com/wp-content/uploads/2023/08/191_background_css_shorthand.png" alt="logo" style="height: 270px; width:100%; ">
 
 <h1 align="center">Hi <img src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" height="50px"width="50px">, I'm Shruti Soni</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">From India</h3>
 
 <h2>About me -</h2>
 
 - 🔭 I’m working as a **Packaged App Development Associate at Accenture**
 
-- 🌱 I’m exploring - **Azure Data Service s**
+- 🌱 I’m exploring - **Azure Data Services**
 
 - 💬 Ask me about **HTML,CSS, JavaScript, Bootstrap, SQL, MySQL, Azure Data Service**
 
