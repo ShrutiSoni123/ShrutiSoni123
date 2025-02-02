@@ -5,7 +5,7 @@
 
 <h2>About me -</h2>
 
-- 🔭 I’m working as a **Packaged App Development Associate at Accenture**
+- 🔭 I’m working as a **Data Engineer at Accenture**
 
 - 🌱 I’m exploring - **Azure Data Services**
 
