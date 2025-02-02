@@ -403,7 +403,7 @@ nav a:hover::before {
 .typewriter h1 {
 	color: aliceblue;
 	font-family: monospace;
-	font-size: 17px;
+	font-size: 15px;
 	overflow: hidden;
 	/* Ensures the content is not revealed until the animation */
 	display: block;
