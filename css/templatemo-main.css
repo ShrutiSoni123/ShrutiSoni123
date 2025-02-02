@@ -403,13 +403,13 @@ nav a:hover::before {
 .typewriter h1 {
 	color: aliceblue;
 	font-family: monospace;
-	font-size: 18px;
+	font-size: 17px;
 	overflow: hidden;
 	/* Ensures the content is not revealed until the animation */
 	display: block;
 	white-space: nowrap;
 	/* Keeps the content on a single line */
-	letter-spacing: .7em;
+	letter-spacing: .6em;
 	border-right: .15em solid white;
 	animation:
 		typing 3.5s steps(15, end),
