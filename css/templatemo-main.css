@@ -409,8 +409,8 @@ nav a:hover::before {
 	display: block;
 	white-space: nowrap;
 	/* Keeps the content on a single line */
-	letter-spacing: .6em;
-	border-right: .15em solid white;
+	letter-spacing: .3em;
+	border-right: .13em solid white;
 	animation:
 		typing 3.5s steps(15, end),
 		blink-caret .5s;
