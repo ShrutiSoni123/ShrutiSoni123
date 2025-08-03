@@ -9,7 +9,7 @@
 
 - 🌱 I’m exploring - **Azure Data Services**
 
-- 💬 Ask me about **HTML,CSS, JavaScript, Bootstrap, SQL, MySQL, Azure Data Service**
+- 💬 Skills - **HTML,CSS, JavaScript, Bootstrap, SQL, MySQL, Azure Data Service, Synapse, Data Factory, Azure DevOps**
 
 - 📫 Reach me at **sonishruti343@gmail.com**
 
